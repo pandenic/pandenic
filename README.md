@@ -1,4 +1,4 @@
-<p>
+<p style="text-align:right">
   <img src=https://www.codewars.com/users/pandenic/badges/large align=center>
 </p>
 <!--
