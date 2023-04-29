@@ -1,5 +1,5 @@
 <p>
-  <img src=https://www.codewars.com/users/pandenic/badges/large>
+  <img src=https://www.codewars.com/users/pandenic/badges/large align=center>
 </p>
 <!--
 **pandenic/pandenic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
